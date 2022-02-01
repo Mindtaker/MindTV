@@ -25,9 +25,9 @@ class MovieDetailFragment : Fragment(R.layout.fragment_movie_detail) {
             .into(binding.imgBackground)
         binding.txtDescription.text = args.overview
         binding.txtMovieTitle.text = args.title
-        binding.txtLanguage.text = "Idioma original: ${args.language}"
-        binding.txtRating.text = "${args.voteAverage} (${args.voteCount} valoraciones)"
-        binding.txtRelease.text = "Lanzada el  ${args.releaseDate}"
+        binding.txtLanguage.text = "Language ${args.language}"
+        binding.txtRating.text = "${args.voteAverage} (${args.voteCount} Reviews)"
+        binding.txtRelease.text = "Released on  ${args.releaseDate}"
     }
 
 }
