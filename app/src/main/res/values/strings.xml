@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MindTV</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="LoremText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lacinia fringilla velit nec tincidunt. Integer vitae ipsum diam. Phasellus hendrerit posuere auctor. Morbi in vestibulum felis. Vivamus ut tristique lectus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc egestas metus vel purus consectetur, eget interdum sem commodo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In congue aliquet sapien, eu elementum velit euismod nec. In scelerisque iaculis magna, nec porta risus blandit ac. Etiam arcu erat, suscipit quis magna fermentum, ultrices molestie leo. Curabitur sollicitudin ultricies consequat. Vivamus ut nunc vel tellus cursus sodales nec eu enim. Cras iaculis tortor sit amet mattis finibus. Morbi iaculis hendrerit ipsum quis pulvinar.</string>
+</resources>
